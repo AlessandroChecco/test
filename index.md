@@ -5,7 +5,7 @@ author_profile: true
 permalink: /
 ---
 
-Welcome. I am Alessandro Checco, Associate Professor at the Computer Science Department, University of Roma "La Sapienza".
+I am Alessandro Checco, Associate Professor at the Computer Science Department, University of Roma "La Sapienza".
 
 ## Research interests
 - Crowdsourcing
