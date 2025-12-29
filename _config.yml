@@ -14,3 +14,8 @@ minimal_mistakes_skin: "default"
 
 # Build settings
 markdown: kramdown
+
+author:
+  name: "Alessandro Checco"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Associate Professore, Computer Science Department, University of Rome La Sapienza"
