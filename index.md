@@ -4,12 +4,13 @@ title: "Home"
 permalink: /
 ---
 
-Welcome. I am [Your Name], [Role], at [Institution].
+Welcome. I am Alessandro Checco, Associate Professor at the Computer Science Department, University of Roma "La Sapienza".
 
 ## Research interests
-- Topic A
-- Topic B
+- Crowdsourcing
+- Networking
+- Recommender Systems
 
 ## Contact
-- email@example.edu
-- Department / Address
+- alessandro.checco@uniroma1.it
+- Via Regina Elena 295, +39.06.49255.435 (36435)
