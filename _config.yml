@@ -18,4 +18,11 @@ markdown: kramdown
 author:
   avatar: "/assets/images/profile.jpg"
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: true
+
 
