@@ -19,3 +19,10 @@ author:
   name: "Alessandro Checco"
   avatar: "/assets/images/profile.jpg"
   bio: "Associate Professore, Computer Science Department, University of Rome La Sapienza"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: true
